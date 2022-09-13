@@ -1,12 +1,11 @@
 # City-Brain
+City Brain is the python software that is trained to capture live videos and identify the following events 
 
-City Brain is the python software which is trained to capture live video identify the following events
-i) Weapon Detection
-ii) Croud Detection
+i) Weapon Detection 
+ii) Crowd Detection 
 iii) Fire Detection
 
-It takes the video input, then process it and identify the event occured in the frame.
-Then it gives alert message to respective departments associated with the events.
+It takes the video input, then processes it and identifies the event that occurred in the frame. Then it gives an alert message to respective departments associated with the events.
 To run this project you need to have additional file just download the additional file and 
 paste it in current folder 
 https://drive.google.com/file/d/1_ZW5BIPC6CcWa54M-cpiU3Q16p_wN3uR/view?usp=sharing
