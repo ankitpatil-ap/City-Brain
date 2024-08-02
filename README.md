@@ -6,7 +6,7 @@ ii) Crowd Detection
 iii) Fire Detection
 
 It takes the video input, then processes it and identifies the event that occurred in the frame. Then it gives an alert message to respective departments associated with the events.
-To run this project you need to have additional file just download the additional file and 
+To run this project you need to have an additional file just download the additional file and 
 paste it in current folder 
 https://drive.google.com/file/d/1_ZW5BIPC6CcWa54M-cpiU3Q16p_wN3uR/view?usp=sharing
 
@@ -16,6 +16,8 @@ Steps:
 3) run register.py
 4) login into system
 5) now you can access the system.
+
+Adding clound-based architecture to this system. 
 
 ![2022-07-12 (5)](https://user-images.githubusercontent.com/63675385/178550707-257d4491-d19d-4f1f-9202-384d498ecbb5.png)
 ![2022-07-12 (6)](https://user-images.githubusercontent.com/63675385/178550722-3ee892ab-1d8f-4b6b-b1d8-12593881f99d.png)
