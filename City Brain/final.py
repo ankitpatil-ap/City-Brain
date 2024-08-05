@@ -5,7 +5,7 @@ import smtplib
 import imutils 
 
 
-print("Analysising...")
+print("Analysising...")  
 
 hog = cv2.HOGDescriptor() 
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector()) 
